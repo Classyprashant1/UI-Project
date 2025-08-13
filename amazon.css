@@ -1,4 +1,4 @@
-.container{
+body{
     max-width: 800px;
     width: 100%;
 }
@@ -308,4 +308,5 @@ li{
     font-size: 9pt;
     padding-bottom: 5px;
 }
+
 
