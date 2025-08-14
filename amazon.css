@@ -1,7 +1,4 @@
-body{
-    max-width: 800px;
-    width: 100%;
-}
+
 *{
     font-family: Arial, sans-serif;
     box-sizing: border-box;
@@ -308,5 +305,6 @@ li{
     font-size: 9pt;
     padding-bottom: 5px;
 }
+
 
 
